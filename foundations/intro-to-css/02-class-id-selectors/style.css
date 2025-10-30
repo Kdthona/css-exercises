@@ -3,3 +3,18 @@
     background-color: #eb98c4;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+.odd-elements.subset {
+    font-size: 24px;
+}
+
+#one {
+    color: #002dcf;
+    font-size: 36px;
+}
+
+#another {
+    background-color: #00cf18;
+    font-size: 24px;
+    font-weight: 1000;
+}
